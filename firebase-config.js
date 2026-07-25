@@ -7,10 +7,10 @@
 // 詳細步驟請見 README.md「自行架設教學」
 // ============================================================
 export const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.firebasestorage.app",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyBG5TcmTuxvj1m7494H3hZw688ju5wOK6A",
+    authDomain: "wefun-e6823.firebaseapp.com.",
+    projectId: "wefun-e6823",
+    storageBucket: "wefun-e6823.firebasestorage.app",
+    messagingSenderId: "270205283249",
+    appId: "1:270205283249:web:cfc62efc648dbc4dba2b90"
 };
